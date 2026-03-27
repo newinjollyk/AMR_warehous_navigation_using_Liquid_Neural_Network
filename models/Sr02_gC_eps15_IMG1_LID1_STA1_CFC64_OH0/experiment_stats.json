@@ -1,0 +1,16 @@
+{
+  "run_folder": "Sr02_gC_eps15_IMG1_LID1_STA1_CFC64_OH0",
+  "train_seconds": 706.2279479503632,
+  "train_minutes": 11.770465799172719,
+  "num_params": 1162434,
+  "dataset": {
+    "num_sequences_total": 7626,
+    "num_sequences_train": 6864,
+    "num_sequences_val": 762
+  },
+  "val": {
+    "val_loss": 5.706858428311534e-05,
+    "val_mae": 0.002575628226622939,
+    "error": ""
+  }
+}

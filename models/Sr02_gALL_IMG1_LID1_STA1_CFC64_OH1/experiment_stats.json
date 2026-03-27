@@ -1,0 +1,16 @@
+{
+  "run_folder": "Sr02_gALL_IMG1_LID1_STA1_CFC64_OH1",
+  "train_seconds": 2227.160391807556,
+  "train_minutes": 37.11933986345927,
+  "num_params": 1162818,
+  "dataset": {
+    "num_sequences_total": 29081,
+    "num_sequences_train": 26173,
+    "num_sequences_val": 2908
+  },
+  "val": {
+    "val_loss": 7.912502042017877e-05,
+    "val_mae": 0.0024417927488684654,
+    "error": ""
+  }
+}

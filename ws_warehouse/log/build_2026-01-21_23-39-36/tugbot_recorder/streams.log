@@ -1,0 +1,24 @@
+[0.461s] Invoking command in '/home/newin/Projects/warehouse/ws_warehouse/build/tugbot_recorder': PYTHONPATH=/home/newin/Projects/warehouse/ws_warehouse/build/tugbot_recorder/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/newin/Projects/warehouse/ws_warehouse/install/tugbot_recorder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/newin/Projects/warehouse/ws_warehouse/build/tugbot_recorder/build --no-deps symlink_data --force
+[0.653s] running develop
+[0.771s] running egg_info
+[0.771s] writing tugbot_recorder.egg-info/PKG-INFO
+[0.772s] writing dependency_links to tugbot_recorder.egg-info/dependency_links.txt
+[0.772s] writing entry points to tugbot_recorder.egg-info/entry_points.txt
+[0.772s] writing requirements to tugbot_recorder.egg-info/requires.txt
+[0.772s] writing top-level names to tugbot_recorder.egg-info/top_level.txt
+[0.774s] reading manifest file 'tugbot_recorder.egg-info/SOURCES.txt'
+[0.775s] writing manifest file 'tugbot_recorder.egg-info/SOURCES.txt'
+[0.776s] running build_ext
+[0.776s] Creating /home/newin/Projects/warehouse/ws_warehouse/install/tugbot_recorder/lib/python3.10/site-packages/tugbot-recorder.egg-link (link to .)
+[0.777s] Installing lnn_prediction_01 script to /home/newin/Projects/warehouse/ws_warehouse/install/tugbot_recorder/lib/tugbot_recorder
+[0.777s] Installing odm_log script to /home/newin/Projects/warehouse/ws_warehouse/install/tugbot_recorder/lib/tugbot_recorder
+[0.777s] Installing recorder script to /home/newin/Projects/warehouse/ws_warehouse/install/tugbot_recorder/lib/tugbot_recorder
+[0.777s] Installing safety_node script to /home/newin/Projects/warehouse/ws_warehouse/install/tugbot_recorder/lib/tugbot_recorder
+[0.778s] 
+[0.778s] Installed /home/newin/Projects/warehouse/ws_warehouse/build/tugbot_recorder
+[0.778s] running symlink_data
+[0.778s] symbolically linking /home/newin/Projects/warehouse/ws_warehouse/build/tugbot_recorder/resource/tugbot_recorder -> /home/newin/Projects/warehouse/ws_warehouse/install/tugbot_recorder/share/ament_index/resource_index/packages
+[0.778s] symbolically linking /home/newin/Projects/warehouse/ws_warehouse/build/tugbot_recorder/package.xml -> /home/newin/Projects/warehouse/ws_warehouse/install/tugbot_recorder/share/tugbot_recorder
+[0.778s] symbolically linking /home/newin/Projects/warehouse/ws_warehouse/build/tugbot_recorder/launch/gps_launch.launch.py -> /home/newin/Projects/warehouse/ws_warehouse/install/tugbot_recorder/share/tugbot_recorder/launch
+[0.778s] symbolically linking /home/newin/Projects/warehouse/ws_warehouse/build/tugbot_recorder/launch/gazebo.launch.py -> /home/newin/Projects/warehouse/ws_warehouse/install/tugbot_recorder/share/tugbot_recorder/launch
+[0.814s] Invoked command in '/home/newin/Projects/warehouse/ws_warehouse/build/tugbot_recorder' returned '0': PYTHONPATH=/home/newin/Projects/warehouse/ws_warehouse/build/tugbot_recorder/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/newin/Projects/warehouse/ws_warehouse/install/tugbot_recorder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/newin/Projects/warehouse/ws_warehouse/build/tugbot_recorder/build --no-deps symlink_data --force
