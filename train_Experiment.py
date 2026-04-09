@@ -59,7 +59,7 @@ USE_STATE = True
 # New:
 #   - "A"/"B"/"C" => single goal => NO onehot => STATE_DIM=5
 #   - "ALL"       => multi-goal  => USE onehot => STATE_DIM=5+N_GOALS
-GOAL_MODE = ["C"]      # later: ["A","B","C"]
+GOAL_MODE = ["A"]      # later: ["A","B","C"]
 # GOAL_MODE = "ALL"
 
 
@@ -852,7 +852,7 @@ def main():
     scatter_pred_vs_gt(model, val_ds, MODEL_DIR, input_unpack_fn=input_unpack, run_name=RUN_FOLDER)
     save_predictions(model, val_ds, MODEL_DIR, input_unpack_fn=input_unpack)
     plot_error_histogram(model, val_ds, MODEL_DIR, input_unpack_fn=input_unpack, run_name=RUN_FOLDER)
-    plot_velocity_density(model, val_ds, MODEL_DIR, input_unpack_fn=input_unpack, run_name=RUN_FOLDER)
+    
 
 
 
