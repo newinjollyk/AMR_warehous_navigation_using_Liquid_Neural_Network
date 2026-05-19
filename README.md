@@ -160,21 +160,7 @@ Formats:
 
 ---
 
-# TensorBoard (Optional)
 
-Monitor training using:
-
-```bash
-tensorboard --logdir log_dir
-```
-
-Open in browser:
-
-```text
-http://localhost:6006
-```
-
----
 
 # Requirements
 
